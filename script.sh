@@ -2,8 +2,8 @@
 
 ################################################################################
 # GoPhish & Evilginx Deployment Script with Interactive Selection
-# Author: [Your Name]
-# Date: [Today’s Date]
+# Author: Panos Oikonomopoulos
+# Date: 7/7/2025
 # Objective: Automate deployment of GoPhish or Evilginx with post-launch reminders
 ################################################################################
 
